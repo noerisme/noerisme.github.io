@@ -13,7 +13,7 @@ const variables = {
     { quote: "Semoga diberi umur yang barokah, rezeki, kesehatan, dan kekuatan oleh Allah", author: "Azhar!" },
     { quote: "Semoga diberi umur yang barokah, rezeki, kesehatan, dan kekuatan oleh Allah", author: "Azhar" },
   ],
-  nicknames: ["Duta", "Duta", "Duta", "Duta", "DutaDuta"],
+  nicknames: ["Khansa", "Khansa", "Khansa", "Khansa", "Khansa"],
   generated: ["{greetings}, {nicknames}!"],
 };
 
