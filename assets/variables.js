@@ -1,19 +1,19 @@
 const variables = {
   greetings: {
-    morning: "Happy Birthday",
-    day: "Happy Birthday",
-    afternoon: "Happy Birthday",
-    evening: "Happy Birthday",
-    night: "Happy Birthday",
+    morning: "Good Morning",
+    day: "Good Day",
+    afternoon: "Good Afternoon",
+    evening: "Good Evening",
+    night: "Good Night",
   },
   quotes: [
-    { quote: "Semoga diberi umur yang barokah, rezeki, kesehatan, dan kekuatan oleh Allah", author: "Azhar" },
-    { quote: "Semoga diberi umur yang barokah, rezeki, kesehatan, dan kekuatan oleh Allah", author: "Azhar" },
-    { quote: "Semoga diberi umur yang barokah, rezeki, kesehatan, dan kekuatan oleh Allah", author: "Azhar" },
-    { quote: "Semoga diberi umur yang barokah, rezeki, kesehatan, dan kekuatan oleh Allah", author: "Azhar!" },
-    { quote: "Semoga diberi umur yang barokah, rezeki, kesehatan, dan kekuatan oleh Allah", author: "Azhar" },
+    { quote: "Love you now, a little more tomorrow^^", author: "Azhar" },
+    { quote: "You are gorgeous! You make 'em drop dead ;)", author: "Azhar" },
+    { quote: "When I create this, you my muse!", author: "Azhar" },
+    { quote: "You the best thing and I don't need a witness. ", author: "Azhar!" },
+    { quote: "A triple threat. You're a boss, you a bae, you a beast :*", author: "Azhar" },
   ],
-  nicknames: ["Khansa", "Khansa", "Khansa", "Khansa", "Khansa"],
+  nicknames: ["Sunshine", "Gorgeous", "Sweetie", "Gurl", "Bee"],
   generated: ["{greetings}, {nicknames}!"],
 };
 
