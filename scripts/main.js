@@ -216,8 +216,9 @@
   else {
       $('#playAudio').remove() // just to make sure that it will not have 2x audio in the background 
   }
-  // setTimeout(() => {
+  
+  setTimeout(() => {
     init()  
-  // }, 4000);
-  // mp3.play()
+  }, 4000);
+  mp3.play()
 })(window)
